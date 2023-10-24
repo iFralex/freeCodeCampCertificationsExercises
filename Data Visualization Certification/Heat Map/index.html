@@ -1,0 +1,51 @@
+<!--See my original web Certification: https://www.freecodecamp.org/certification/ifralex/data-visualization-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1,
+        h2 {
+            text-align: center
+        }
+        
+        #tooltip {
+            position: absolute;
+            transform: translate(-50%, 0);
+        }
+        
+        .tp {
+            border: 1px white solid;
+            color: white;
+            text-align: center;
+            font-size: 25px;
+            display: block;
+        }
+        
+        .temp {
+            border-radius: 50%;
+            background-color: red;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            height: 50px;
+            margin: 5px;
+        }
+        
+        .date {
+            background-color: black;
+            padding: 2px 3px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+
+<body style="min-width: 100wv;position: relative;">
+    <h1 id="title">Monthly Global Land-Surface Temperature</h1>
+    <h2 id="description">1753 - 2015: base temperature 8.66℃</h2>
+    <script type="module" src="./script.js"></script>
+</body>
+
+</html>
