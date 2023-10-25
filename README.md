@@ -58,9 +58,9 @@ I've harnessed the power of Bootstrap to rapidly style websites and incorporated
   In the Random Quote Machine project, I created an app that allows users to view random quotes and share them on Twitter with a single click.
 
 - ### Markdown Previewer
-  ![Markdown Previewer Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/19c7c587-f893-465b-9897-fa3ae9fa022d)
+  ![Markdown Previewer Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/e7a6d15a-45e2-42a8-bbd1-c8c3e15f20bc)
   ![Markdown Previewer Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/6d8ed14d-2bd0-45f2-a6a5-d2dbda75618c)
-  ![Markdown Previewer Screen 3](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/e7a6d15a-45e2-42a8-bbd1-c8c3e15f20bc)
+  ![Markdown Previewer Screen 3](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/19c7c587-f893-465b-9897-fa3ae9fa022d)
 
   **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Front%20End%20Development%20Libraries/Markdown%20Previewer)  |  [Link to CodePen project](https://codepen.io/iFralex/pen/jOQvGJO)  
   **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)
@@ -76,8 +76,8 @@ I've harnessed the power of Bootstrap to rapidly style websites and incorporated
   In the Drum Machine project, I created a drum machine that plays various sounds when users click on the drum pads or use keyboard shortcuts. The drum machine displays the name of the played sound.
 
 - ### JavaScript Calculator
-  ![JavaScript Calculator Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/124b99d1-0afb-4f09-91ac-5a1623d72f64)
-  ![JavaScript Calculator Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/b76432b4-8e20-49fc-9b52-5db4ed9995e9)
+  ![JavaScript Calculator Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/b76432b4-8e20-49fc-9b52-5db4ed9995e9)
+  ![JavaScript Calculator Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/124b99d1-0afb-4f09-91ac-5a1623d72f64)
 
   **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Front%20End%20Development%20Libraries/JavaScript%20Calculator) | [Link to CodePen project](https://codepen.io/iFralex/pen/xxQyGyR)  
   **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator)
@@ -85,13 +85,15 @@ I've harnessed the power of Bootstrap to rapidly style websites and incorporated
   In the JavaScript Calculator project, I built a calculator capable of performing basic arithmetic operations. Users can input numbers and operators, view the result, and clear the input.
 
 - ### 25 + 5 Clock
-  ![25 + 5 Clock Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/71e1ae67-70ff-4081-ba13-d3056d0d4ee0)
-  ![25 + 5 Clock Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/abe40328-97f0-4c40-a185-7c93978f143d)
+  ![25 + 5 Clock Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/abe40328-97f0-4c40-a185-7c93978f143d)
+  ![25 + 5 Clock Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/71e1ae67-70ff-4081-ba13-d3056d0d4ee0)
 
-  **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Front%20End%20Development%20Libraries/25%20%2B%205%20Clock) | [Link to CodePen project](https://codepen.io/iFralex/full/zYMmpbb)   
+  **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Front%20End%20Development%20Libraries/25%20%2B%205%20Clock) | [Link to CodePen project](https://codepen.io/iFralex/pen/zYMmpbb)   
   **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
 
   In the 25 + 5 Clock project, I designed a Pomodoro timer that allows users to set the duration of sessions and breaks, start and pause the timer, and receive audio alerts when the timer reaches zero.
+
+-------
 
 ## Data Visualization
 The Data Visualization Certification from freeCodeCamp has equipped me with the expertise to transform raw data into compelling visual representations using the power of D3.js and other web technologies.
@@ -100,48 +102,48 @@ This certification has provided me with the tools and knowledge to make data mea
 
 [My freeCodeCamp certificate for Data Visualization](https://www.freecodecamp.org/certification/ifralex/data-visualization)
 
-- ### Visualize Data with a Bar Chart
+- ### Bar Chart
   ![Bar Chart Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/26a67144-156a-45a9-8a0b-b543224f5835)
   ![Bar Chart Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/897c1156-a9a3-4674-b85c-19302c36eb53)
 
   **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Data%20Visualization%20Certification/Bar%20Chart) | [Link to CodePen project](https://codepen.io/iFralex/pen/qBQwZvg)  
   **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart)
 
-  In the "Visualize Data with a Bar Chart" project, I created an app that effectively illustrates data using bar charts. The app includes essential elements like a title, x-axis, y-axis, and colorful bars, offering users a meaningful and interactive way to explore data patterns.
+  In the Bar Chart project, I created an app that effectively illustrates data using bar charts. The app includes essential elements like a title, x-axis, y-axis, and colorful bars, offering users a meaningful and interactive way to explore data patterns.
 
-- ### Visualize Data with a Scatterplot Graph
+- ### Scatterplot Graph
   ![Scatterplot Graph Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/a8b17888-00de-4a10-9d96-b2b085b6da47)
   ![Scatterplot Graph Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/da7573f8-929f-48a7-a04a-d3ffe01c41c6)
 
   **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Data%20Visualization%20Certification/Scatterplot%20Graph) | [Link to CodePen project](https://codepen.io/iFralex/pen/poQBYwL)  
   **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph)
 
-  In the "Visualize Data with a Scatterplot Graph" project, I constructed an interactive scatterplot graph that elegantly displays data relationships. Users can explore data patterns through the position of dots on the graph, facilitating a deeper understanding of data insights.
+  In the Scatterplot Graph project, I constructed an interactive scatterplot graph that elegantly displays data relationships. Users can explore data patterns through the position of dots on the graph, facilitating a deeper understanding of data insights.
 
-- ### Visualize Data with a Heat Map
+- ### Heat Map
   ![Heat Map Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/389b577e-5ff8-4c34-8ccd-5baa72fee55d)
   ![Heat Map Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/747a7953-5480-45f9-b4c9-48175cb1da05)
   ![Heat Map Screen 3](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/4c9cb2b8-dca4-4343-8908-d19183607cdb)
 
   **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Data%20Visualization%20Certification/Heat%20Map) | [Link to CodePen project](https://codepen.io/iFralex/pen/XWywpGG?editors=1010)  
-  **Original request:** [Link to the freeCodeCamp page](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Data%20Visualization%20Certification/Heat%20Map)
+  **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-heat-map)
 
-  The "Visualize Data with a Heat Map" project challenged me to create an informative heat map, which uses color intensity to represent data variations. The project incorporates axes, data cells, and a legend to enable users to gain insights into data trends and patterns.
+  The Heat Map project challenged me to create an informative heat map, which uses color intensity to represent data variations. The project incorporates axes, data cells, and a legend to enable users to gain insights into data trends and patterns.
 
-- ### Visualize Data with a Choropleth Map
+- ### Choropleth Map
   ![Choropleth Map Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/65ecb3ee-a73b-4bfc-8dc5-7d5ed1943ba2)
   ![Choropleth Map Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/9639d2ff-eeb6-4c5a-9026-2d731f9ff547)
 
   **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Data%20Visualization%20Certification/Choropleth%20Map) | [Link to CodePen project](https://codepen.io/iFralex/pen/eYQaodo?editors=0010)  
   **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map)
 
-  In the "Visualize Data with a Choropleth Map" project, I expanded my data visualization skills to geospatial data. I designed an interactive map that leverages color coding to represent regional data variations. This project provides an effective means for users to explore regional data disparities and trends.
+  In the Choropleth Map project, I expanded my data visualization skills to geospatial data. I designed an interactive map that leverages color coding to represent regional data variations. This project provides an effective means for users to explore regional data disparities and trends.
 
-- ### Visualize Data with a Treemap Diagram
+- ### Treemap Diagram
   ![Treemap Diagram Screen 1](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/5521f184-57e3-4ca3-ba06-2ded12728188)
   ![Treemap Diagram Screen 2](https://github.com/iFralex/freeCodeCampCertificationsExercises/assets/61825057/c47f73cc-2997-4292-b45e-62eb258eff71)
 
   **My solution:** [Link to GitHub folder](https://github.com/iFralex/freeCodeCampCertificationsExercises/tree/main/Data%20Visualization%20Certification/Treemap%20Diagram) | [Link to CodePen project](https://codepen.io/iFralex/pen/oNQrNKg?editors=1010)  
   **Original request:** [Link to the freeCodeCamp page](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-treemap-diagram)
 
-  In the "Visualize Data with a Treemap Diagram" project, I crafted a tree map that effectively organizes hierarchical data. This visualization technique serves as a powerful tool for representing data with nested categories and enables users to grasp data relationships and proportions with ease.
+  In the Treemap Diagram project, I crafted a tree map that effectively organizes hierarchical data. This visualization technique serves as a powerful tool for representing data with nested categories and enables users to grasp data relationships and proportions with ease.
