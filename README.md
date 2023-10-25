@@ -1,5 +1,7 @@
 # freeCodeCamp Certifications Exercises
 
+**See** my freeCodeCamp [Profile](freecodecamp.org/ifralex)
+
 ## JavaScript Algorithms and Data Structures
 The JavaScript Algorithms and Data Structures Certification from freeCodeCamp served as my gateway into the heart of web development. This certification equipped me with a comprehensive understanding of JavaScript, encompassing fundamental concepts like variables, arrays, objects, loops, and functions.
 
